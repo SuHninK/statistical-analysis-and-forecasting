@@ -19,7 +19,7 @@ Below are the comprehensive analytical graphs capturing the trend decomposition,
 ---
 
 ####  Model Evaluation Metrics & Benchmarking
-To guarantee high-performing, fast, and accurate insights, multiple evaluation metrics (SSE, MSE, RMSE, MAPE) were benchmarked across two primary mathematical variations (Additive vs. Multiplicative):
+After completing all 5 framework steps, multiple evaluation metrics (SSE, MSE, RMSE, MAPE) were benchmarked across two primary mathematical variations (Additive vs. Multiplicative) to guarantee high-performing, fast, and accurate insights.
 
 
 | Analytics Tool | Metrics | Additive Model | Multiplicative Model | Performance Status |
