@@ -1,4 +1,4 @@
-# statistical-analysis-and-forecasting
+# Statistical-Analysis-and-Forecasting
 
 ### Predictive Modeling & Multi-Platform Benchmarking: Airline-Tourism Arrivals
 * **Objective:** Developed an end-to-end forecasting framework to transform raw macroeconomic logs into a structured time-series predictive model for international arrivals in Myanmar.
@@ -14,6 +14,7 @@ To guarantee high-performing, fast, and accurate insights, multiple evaluation m
 | **SAS** | SSE <br> MSE <br> RMSE <br> **MAPE** | 2535.22 <br> 30.18 <br> 5.49 <br> **3.95%** | 3547.58 <br> 42.23 <br> 6.49 <br> **4.03%** | **Strong Second** (Highly Reliable) |
 | **SPSS** | SSE <br> MSE <br> RMSE <br> **MAPE** | 2630.47 <br> 31.31 <br> 5.59 <br> **3.96%** | 3676.80 <br> 43.77 <br> 6.61 <br> **4.03%** |  **Strong Second** |
 | **R / RStudio** | SSE <br> MSE <br> RMSE <br> **MAPE** | 5013.49 <br> 59.68 <br> 7.72 <br> **5.34%** | 5590.42 <br> 66.55 <br> 8.15 <br> **5.11%** | High Variance on this Dataset |
+<img width="1600" height="1600" alt="1000031072 (1)" src="https://github.com/user-attachments/assets/83c5dcab-4cdc-46de-8463-788164a06103" />
 
 #### Key Strategic Takeaways
 * **Data Cleansing & Integrity:** Re-structured 6 years of unstructured historical data, managing missing values and formula derivations to achieve a data architecture fit for predictive analytics.
