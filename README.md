@@ -19,7 +19,7 @@ Below are the comprehensive analytical graphs capturing the trend decomposition,
 ---
 
 ####  Model Evaluation Metrics & Benchmarking
-After completing all 5 framework steps, multiple evaluation metrics (SSE, MSE, RMSE, MAPE) were benchmarked across two primary mathematical variations (Additive vs. Multiplicative) to guarantee high-performing, fast, and accurate insights.
+After completing all 5 framework steps, Holt-Winters' Exponential Smoothing (three parameters) both Additive & Multiplicative Models are chosen. Multiple evaluation metrics (SSE, MSE, RMSE, MAPE) were benchmarked across these two primary mathematical variations to guarantee high-performing, fast, and accurate insights.
 
 
 | Analytics Tool | Metrics | Additive Model | Multiplicative Model | Performance Status |
